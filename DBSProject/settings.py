@@ -26,7 +26,7 @@ SECRET_KEY = 'b4l70hyq^hj_0#c@9@lad)7x8nq*a)h_bnrhhic9vz#ae$9p*g'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['fiit-dbs-xleontiev-app.azurewebsites.net']
 
 
 # Application definition
